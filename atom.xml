@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>王伟的博客</title>
-  <subtitle>本博客主要写一些平时学习工作中的一些积累，目的是大家一块分享共同进步。</subtitle>
+  <title>王依婷博客</title>
+  <subtitle>平时写一些东西希望大家喜欢。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-21T02:05:24.108Z</updated>
+  <updated>2017-06-21T02:16:25.120Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>王伟</name>
+    <name>王依婷</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new article</title>
+    <link href="http://yoursite.com/2017/06/21/new-article/"/>
+    <id>http://yoursite.com/2017/06/21/new-article/</id>
+    <published>2017-06-21T02:16:25.000Z</published>
+    <updated>2017-06-21T02:16:25.120Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>wyt</title>
