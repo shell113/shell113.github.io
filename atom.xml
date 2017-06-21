@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-13T08:33:51.160Z</updated>
+  <updated>2017-06-21T02:05:24.108Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wyt</title>
+    <link href="http://yoursite.com/2017/06/21/wyt/"/>
+    <id>http://yoursite.com/2017/06/21/wyt/</id>
+    <published>2017-06-21T02:05:24.000Z</published>
+    <updated>2017-06-21T02:05:24.108Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>新文章#可以改成中文的，如“新文章”</title>
